@@ -1,0 +1,5 @@
+D:\VS Projects\repos\Xamarin_App_Soln\Xamarin_ClassLibrary\bin\Debug\Xamarin_ClassLibrary.dll
+D:\VS Projects\repos\Xamarin_App_Soln\Xamarin_ClassLibrary\bin\Debug\Xamarin_ClassLibrary.pdb
+D:\VS Projects\repos\Xamarin_App_Soln\Xamarin_ClassLibrary\obj\Debug\Xamarin_ClassLibrary.csproj.CoreCompileInputs.cache
+D:\VS Projects\repos\Xamarin_App_Soln\Xamarin_ClassLibrary\obj\Debug\Xamarin_ClassLibrary.dll
+D:\VS Projects\repos\Xamarin_App_Soln\Xamarin_ClassLibrary\obj\Debug\Xamarin_ClassLibrary.pdb

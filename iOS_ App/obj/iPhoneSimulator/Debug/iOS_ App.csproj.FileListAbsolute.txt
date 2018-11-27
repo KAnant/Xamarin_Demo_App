@@ -1,0 +1,11 @@
+D:\VS Projects\repos\Xamarin_App_Soln\iOS_ App\bin\iPhoneSimulator\Debug\iOS_ App.exe
+D:\VS Projects\repos\Xamarin_App_Soln\iOS_ App\bin\iPhoneSimulator\Debug\iOS_ App.pdb
+D:\VS Projects\repos\Xamarin_App_Soln\iOS_ App\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\VS Projects\repos\Xamarin_App_Soln\iOS_ App\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\VS Projects\repos\Xamarin_App_Soln\iOS_ App\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\VS Projects\repos\Xamarin_App_Soln\iOS_ App\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+D:\VS Projects\repos\Xamarin_App_Soln\iOS_ App\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\VS Projects\repos\Xamarin_App_Soln\iOS_ App\obj\iPhoneSimulator\Debug\optimized\
+D:\VS Projects\repos\Xamarin_App_Soln\iOS_ App\obj\iPhoneSimulator\Debug\iOS_ App.csproj.CoreCompileInputs.cache
+D:\VS Projects\repos\Xamarin_App_Soln\iOS_ App\obj\iPhoneSimulator\Debug\iOS_ App.exe
+D:\VS Projects\repos\Xamarin_App_Soln\iOS_ App\obj\iPhoneSimulator\Debug\iOS_ App.pdb
